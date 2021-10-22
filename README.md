@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus 'Farinaceos' Farina! 👋
 
-- 🔭 Estou buscando oportunidades de trabalho!
-- 🌱 Atualmente estou fazendo um curso em Java FullStack
+- 🔭 Sempre em busca de oportunidades e melhorias!
+- 🌱 Dev Fullstack - MySQL, Java, Angular, Javascript, CSS, HTML5
 - 💬 Pode me perguntar sobre qualquer coisa, o que eu não souber, estou disposto a aprender!
 - ⚡ Fun fact: Tenho formação como Barista, então posso te garantir ao menos um bom café enquanto codamos ;-)
 
