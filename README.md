@@ -2,8 +2,9 @@
 
 - 🔭 Sempre em busca de oportunidades e melhorias!
 - 🌱 Dev Fullstack - MySQL, Java, Angular, Javascript, CSS, HTML5
+- Mergulhado e apaixonado em Ciência e Engenharia de Dados
 - 💬 Pode me perguntar sobre qualquer coisa, o que eu não souber, estou disposto a aprender!
-- ⚡ Fun fact: Tenho formação como Barista, então posso te garantir ao menos um bom café enquanto codamos ;-)
+- ⚡ Fun fact: Tenho formação como Barista, então posso te garantir ao menos um bom café!
 
  <div>
   <a href="https://github.com/farinaceos">
