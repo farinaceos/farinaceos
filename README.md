@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Matheus 'Farinaceos' Farina! 👋
 
-- 👨‍🎓 Cursando Ciência de Dados
-- 🔭 Sempre em busca de oportunidades e melhorias!
-- 🥽 Mergulhado e apaixonado em Ciência e Engenharia de Dados,
-- 🌱 Experiências - MySQL, Java, Angular, Javascript, CSS, HTML5
-- 💬 Pode me perguntar sobre qualquer coisa, o que eu não souber, estou disposto a aprender!
+- 💻 Project Manager
+- 👨‍🎓 Game Developer
+- 🔭 Always in search of improvements
+- 💬 Ask me Anything! If I don't have the answer, I'll be glad to search for it so we learn together!
 - ⚡ Fun fact: Tenho formação como Barista, então posso te garantir ao menos um bom café!
 
  <div>
